@@ -27,8 +27,8 @@ Sou Técnico em eletônica e atualmente estudante de engenharia da computação.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisDvaco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDvaco&layout=compact&theme=dark&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisDvaco&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDvaco&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages" />
 </div>
 
 ---
