@@ -23,15 +23,6 @@ Sou Técnico em eletônica e atualmente estudante de engenharia da computação.
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisDvaco&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDvaco&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages" />
-</div>
-
----
-<div align="center">
-  <sub>Hardware é o que você chuta, Software é o que você xinga.</sub>
+  <sub>Hardware é o que você chut4, Software é o que você xing4.</sub>
 </div>
