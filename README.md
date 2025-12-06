@@ -25,4 +25,4 @@ Sou Técnico em eletônica e atualmente estudante de engenharia da computação.
 ---
 <div align="center">
   <sub>Hardware é o que você chut4, Software é o que você xing4.</sub>
-</div>
+</div> 
